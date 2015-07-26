@@ -1,2 +1,2 @@
 # mlearning
-JHU Machine Learning Project
+JHU Machine Learning Project by M. Chitnis
